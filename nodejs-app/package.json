@@ -2,9 +2,9 @@
   "name": "nodejs-app",
   "version": "1.0.0",
   "description": "Hello World App",
-  "main": "server.js",
+  "main": "app.js",
   "script": {
-	  "start": "node server.js"
+	  "start": "node app.js"
   },
   "author": "Red Hat Training",
   "license": "ASL",
